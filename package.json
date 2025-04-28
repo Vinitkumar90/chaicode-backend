@@ -1,0 +1,18 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel - youtube se seekha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai",
+    "hitesh",
+    "vinit"
+  ],
+  "author": "vinit",
+  "license": "ISC"
+}
